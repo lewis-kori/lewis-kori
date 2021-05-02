@@ -13,7 +13,7 @@
 
 Hi, I'm Lewis Kori, a passionate self-taught full-stack software developer.
 
-- 🔭 I’m currently working on financial technology software
+- 🔭 I’m currently working on financial technology software and building tools for the creator economy
 - 🌱 I’m currently learning web3 and blockchain technology
 - 👯 I’m looking to collaborate on [vue-google-translate](https://github.com/lewis-kori/vue-google-translate)
 - 💬 Ask me about anything [here](https://github.com/lewis-kori/lewis-kori/issues)
