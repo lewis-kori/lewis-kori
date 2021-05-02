@@ -1,17 +1,20 @@
 ### Hi there, I'm [Lewis!](https://lewiskori.com) 👋
 
 
-<a href="https://twitter.com/lewis_kihiu">
-  <img align="left" alt="lewis_kori_twitter | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="https://twitter.com/lewis_kihiu" target="_blank">
+  <img align="left" alt="lewis_kori_twitter | Twitter" width="21px" src="https://raw.githubusercontent.com/lewis-kori/lewis-kori/main/assets/twitter.svg" />
 </a>
-<a href="https://discordapp.com/users/twinself#3999">
-  <img align="left" alt="lewis_kori_discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+<a href="https://dev.to/lewiskori" target="_blank">
+  <img align="left" alt="lewis_kori_devto | Devto" width="21px" src="https://raw.githubusercontent.com/lewis-kori/lewis-kori/main/assets/devto.svg" />
+</a>
+<a href="https://discordapp.com/users/twinself#3999" target="_blank">
+  <img align="left" alt="lewis_kori_discord" width="21px" src="https://raw.githubusercontent.com/lewis-kori/lewis-kori/main/assets/discord-round.svg" />
 </a>
 
 <br />
 <br />
 
-Hi, I'm Lewis Kori, a passionate self-taught full-stack software developer.
+Hi, I'm Lewis Kori, a passionate full-stack software developer.
 
 - 🔭 I’m currently working on financial technology software and building tools for the creator economy
 - 🌱 I’m currently learning web3 and blockchain technology
