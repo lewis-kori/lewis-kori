@@ -2,13 +2,13 @@
 
 
 <a href="https://twitter.com/lewis_kihiu" target="_blank">
-  <img align="left" alt="lewis_kori_twitter | Twitter" width="21px" src="https://raw.githubusercontent.com/lewis-kori/lewis-kori/main/assets/twitter.svg" />
+  <img align="left" alt="lewis_kori_twitter | Twitter" width="21px" src="https://raw.githubusercontent.com/lewis-kori/lewis-kori/main/assets/images/twitter.svg" />
 </a>
 <a href="https://dev.to/lewiskori" target="_blank">
-  <img align="left" alt="lewis_kori_devto | Devto" width="21px" src="https://raw.githubusercontent.com/lewis-kori/lewis-kori/main/assets/devto.svg" />
+  <img align="left" alt="lewis_kori_devto | Devto" width="21px" src="https://raw.githubusercontent.com/lewis-kori/lewis-kori/main/assets/images/devto.svg" />
 </a>
 <a href="https://discordapp.com/users/twinself#3999" target="_blank">
-  <img align="left" alt="lewis_kori_discord" width="21px" src="https://raw.githubusercontent.com/lewis-kori/lewis-kori/main/assets/discord-round.svg" />
+  <img align="left" alt="lewis_kori_discord" width="21px" src="https://raw.githubusercontent.com/lewis-kori/lewis-kori/main/assets/images/discord-round.svg" />
 </a>
 
 <br />
