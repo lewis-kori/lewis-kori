@@ -35,7 +35,7 @@ Hi, I'm Lewis Kori, a passionate self-taught full-stack software developer.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lewis-kori&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight" alt="lewis's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewis-kori&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.app/api/top-langs/?username=lewis-kori&layout=compact&theme=material-palenight" />
 </a>
 
 <a href="https://github.com/lewis-kori/vue-google-translate">
