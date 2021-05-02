@@ -32,16 +32,15 @@ Hi, I'm Lewis Kori, a passionate self-taught full-stack software developer.
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lewis-kori&show_icons=true&include_all_commits=true&theme=material-palenight" alt="lewis's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lewis-kori&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight" alt="lewis's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewis-kori&layout=compact&theme=material-palenight" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/lewis-kori/vue-google-translate">
   <img align="center" src="https://github-readme-stats.app/api/pin/?username=lewis-kori&repo=vue-google-translate&theme=material-palenight" />
 </a>    
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+<a href="https://github.com/lewis-kori/event-scheduler">
   <img align="center" src="https://github-readme-stats.app/api/pin/?username=lewis-kori&repo=event-scheduler&theme=material-palenight" />
 </a>
