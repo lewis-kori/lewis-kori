@@ -28,15 +28,15 @@ Hi, I'm Lewis Kori, a passionate full-stack software developer.
 
 **Languages and Tools:**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://camo.githubusercontent.com/300c2986a53648631c34798554da7cde3779de253b02a15da6bccc59ea9f0317/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6e6578746a732d332e737667"></code>
-<code><img height="20" src="https://camo.githubusercontent.com/faa52408def7e90dd8b2c84a09a62bf675ba11152395c61dae6a131458fbbae8/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e7578746a732f6e7578746a732d69636f6e2e737667"></code>
-<code><img height="20" src="https://camo.githubusercontent.com/4caac8c197c4342ca3f38fad51f8afd8a411aa7a62438886815f8f12f8d90050/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f67726964736f6d652f67726964736f6d652d69636f6e2e737667"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></code>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code></a>
+<a href="https://www.python.org" target="_blank"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code></a>
+<a href="http://reactjs.org/" target="_blank"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code></a>
+<a href="https://vuejs.org/" target="_blank"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/vue/vue.png"></code></a>
+<a href="https://nodejs.org/" target="_blank"><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code></a>
+<a href="https://nextjs.org/" target="_blank"><code><img height="20" src="https://camo.githubusercontent.com/300c2986a53648631c34798554da7cde3779de253b02a15da6bccc59ea9f0317/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6e6578746a732d332e737667"></code></a>
+<a href="https://nuxtjs.org/" target="_blank"><code><img height="20" src="https://camo.githubusercontent.com/faa52408def7e90dd8b2c84a09a62bf675ba11152395c61dae6a131458fbbae8/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e7578746a732f6e7578746a732d69636f6e2e737667"></code></a>
+<a href="https://gridsome.org" target="_blank"><code><img height="20" src="https://camo.githubusercontent.com/4caac8c197c4342ca3f38fad51f8afd8a411aa7a62438886815f8f12f8d90050/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f67726964736f6d652f67726964736f6d652d69636f6e2e737667"></code></a>
+<a href="https://www.postgresql.org/" target="_blank"><code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></code></a>
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
 
