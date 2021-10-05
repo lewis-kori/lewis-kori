@@ -12,7 +12,7 @@
   <img align="left" alt="lewis_kori_telegram" width="21px" src="https://raw.githubusercontent.com/lewis-kori/lewis-kori/main/assets/images/telegram.svg" />
 </a>
 
-<a href="https://discordapp.com/users/twinself#3999">
+<a href="https://discordapp.com/users/kori#3999">
   <img align="left" alt="lewis_kori_discord" width="21px" src="https://raw.githubusercontent.com/lewis-kori/lewis-kori/main/assets/images/discord-round.svg" />
 </a>
 
