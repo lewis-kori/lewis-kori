@@ -40,20 +40,7 @@ Hi, I'm Lewis Kori, a passionate full-stack software developer.
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lewis-kori&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight" alt="lewis's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewis-kori&count_private=true&layout=compact&theme=material-palenight" />
-</a>
-
-<a href="https://github.com/lewis-kori/vue-google-translate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewis-kori&repo=vue-google-translate&theme=material-palenight" />
-</a>
-
-<a href="https://github.com/lewis-kori/event-scheduler">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewis-kori&repo=event-scheduler&theme=material-palenight" />
-</a>
+![Lewis's GitHub stats](https://github-readme-stats.vercel.app/api?username=lewis-kori&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight)
 
 
 ### 🌐 Join Me on CoderLegion
