@@ -54,3 +54,8 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 <a href="https://github.com/lewis-kori/event-scheduler">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewis-kori&repo=event-scheduler&theme=material-palenight" />
 </a>
+
+
+### 🌐 Join Me on CoderLegion
+
+[![CoderLegion](https://coderlegion.com/cl_badge_logo1.png)](https://coderlegion.com/user/Lewis+Kori+1) Check out my articles and community posts on [CoderLegion!](https://coderlegion.com/user/Lewis+Kori+1)
