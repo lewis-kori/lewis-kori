@@ -40,7 +40,7 @@ Hi, I'm Lewis Kori, a passionate full-stack software developer.
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
 
-![Lewis's GitHub stats](https://github-readme-stats.vercel.app/api?username=lewis-kori&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight)
+![Lewis's GitHub stats](https://github-stats-extended.vercel.app/api?username=lewis-kori&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight)
 
 
 ### 🌐 Join Me on CoderLegion
